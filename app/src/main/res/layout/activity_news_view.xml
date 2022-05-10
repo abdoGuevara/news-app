@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="10dp"
-    tools:context=".NewsViewActivity">
+    tools:context=".ui.NewsViewActivity">
 
     <com.makeramen.roundedimageview.RoundedImageView
 app:riv_corner_radius="10dp"

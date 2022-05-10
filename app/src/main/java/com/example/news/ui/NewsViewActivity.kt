@@ -1,4 +1,4 @@
-package com.example.news
+package com.example.news.ui
 
 import android.content.Intent
 import android.net.Uri
@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
 import com.bumptech.glide.Glide
+import com.example.news.R
 import com.example.news.model.ArticlesItem
 import com.makeramen.roundedimageview.RoundedImageView
 
